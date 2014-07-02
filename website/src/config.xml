@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<coolOn>~coolOn~</coolOn>
+	<coolOff>~coolOff~</coolOff>
+	<coolFan>~coolFan~</coolFan>
+	<numThrottlePots>~numThrottlePots~</numThrottlePots>
+	<throttleSubType>~throttleSubType~</throttleSubType>
+	<throttleMin1>~throttleMin1~</throttleMin1>
+	<throttleMin2>~throttleMin2~</throttleMin2>
+	<throttleMax1>~throttleMax1~</throttleMax1>
+	<throttleMax2>~throttleMax2~</throttleMax2>
+	<throttleRegenMax>~throttleRegenMax~</throttleRegenMax>
+	<throttleRegenMin>~throttleRegenMin~</throttleRegenMin>
+	<throttleFwd>~throttleFwd~</throttleFwd>
+	<throttleMap>~throttleMap~</throttleMap>
+	<throttleMinRegen>~throttleMinRegen~</throttleMinRegen>
+	<throttleMaxRegen>~throttleMaxRegen~</throttleMaxRegen>
+	<throttleCreep>~throttleCreep~</throttleCreep>
+	<brakeMin>~brakeMin~</brakeMin>
+	<brakeMax>~brakeMax~</brakeMax>
+	<brakeMinRegen>~brakeMinRegen~</brakeMinRegen>
+	<brakeMaxRegen>~brakeMaxRegen~</brakeMaxRegen>
+	<speedMax>~speedMax~</speedMax>
+	<torqueMax>~torqueMax~</torqueMax>
+	<logLevel>~logLevel~</logLevel>
+	<prechargeRelay>~prechargeRelay~</prechargeRelay>
+	<mainContactorRelay>~mainContactorRelay~</mainContactorRelay>
+	<prechargeR>~prechargeR~</prechargeR>
+	<nominalVolt>~nominalVolt~</nominalVolt>
+	<brakeLight>~brakeLight~</brakeLight>
+	
+	
+	
+</config>
