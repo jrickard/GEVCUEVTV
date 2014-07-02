@@ -170,7 +170,7 @@ void DmocMotorController::handleTick() {
 		if (activityCount > 60) activityCount = 60;
 		if (actualState == DISABLED && activityCount > 40) {
 			setOpState(ENABLE);
-			setGear(REVERSE);
+			setGear(DRIVE);
 		}
 	}
 	else {
